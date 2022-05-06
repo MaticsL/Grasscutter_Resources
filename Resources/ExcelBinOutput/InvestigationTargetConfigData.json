@@ -2252,7 +2252,7 @@
             ]
         },
         "Progress": 1,
-        "IsDeleteWatcherAfterFinish": true
+        "IsDisuse": true
     },
     {
         "InvestigationId": 20001,

@@ -46,7 +46,7 @@
             10000005,
             10000007
         ],
-        "EntityAppearSorted": 1,
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "测试"
     },
     {
@@ -95,7 +95,7 @@
             10000005,
             10000007
         ],
-        "EntityAppearSorted": 1,
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "测试"
     },
     {
@@ -108,7 +108,7 @@
             10000005,
             10000007
         ],
-        "EntityAppearSorted": 1,
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "正式"
     },
     {
@@ -172,7 +172,7 @@
         "OverrideDefaultProfile": "",
         "LevelEntityConfig": "Level_Sneak",
         "SpecifiedAvatarList": [],
-        "EntityAppearSorted": 1,
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "测试"
     },
     {
@@ -384,13 +384,14 @@
         "Type": "SCENE_ROOM",
         "ScriptData": "IndoorScene_Md_AngelShare_Bartender01",
         "OverrideDefaultProfile": "",
-        "LevelEntityConfig": "SCENE_MP_SINGLE_PLAYER_SINGLE_MODE",
+        "LevelEntityConfig": "Level_Bartender_Room",
         "SpecifiedAvatarList": [
             10000005,
             10000007
         ],
-        "EntityAppearSorted": 1,
-        "Comment": "正式"
+        "MaxSpecifiedAvatarNum": 1,
+        "Comment": "正式",
+        "HAFOGPLLBFH": "SCENE_MP_SINGLE_PLAYER_SINGLE_MODE"
     },
     {
         "Id": 1070,
@@ -490,7 +491,7 @@
         "LevelEntityConfig": "Level_BigWorld",
         "SpecifiedAvatarList": [],
         "Comment": "正式",
-        "MaxSpecifiedAvatarNum": 15,
+        "PKJNCEAIFFB": 15,
         "IGEIMMEHIDG": true
     },
     {
@@ -501,7 +502,7 @@
         "LevelEntityConfig": "Level_BigWorld",
         "SpecifiedAvatarList": [],
         "Comment": "正式",
-        "MaxSpecifiedAvatarNum": 1,
+        "PKJNCEAIFFB": 1,
         "IGEIMMEHIDG": true,
         "OGPODEBAOKA": true
     },
@@ -513,7 +514,7 @@
         "LevelEntityConfig": "Level_BigWorld",
         "SpecifiedAvatarList": [],
         "Comment": "正式",
-        "MaxSpecifiedAvatarNum": 1,
+        "PKJNCEAIFFB": 1,
         "IGEIMMEHIDG": true
     },
     {
@@ -523,8 +524,9 @@
         "OverrideDefaultProfile": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_LP_General",
         "LevelEntityConfig": "Level_BigWorld",
         "SpecifiedAvatarList": [],
+        "KHOHJOLLACG": 0.75,
         "Comment": "正式",
-        "MaxSpecifiedAvatarNum": 1,
+        "PKJNCEAIFFB": 1,
         "IGEIMMEHIDG": true
     },
     {
@@ -535,7 +537,7 @@
         "LevelEntityConfig": "Level_BigWorld",
         "SpecifiedAvatarList": [],
         "Comment": "正式",
-        "MaxSpecifiedAvatarNum": 2,
+        "PKJNCEAIFFB": 2,
         "IGEIMMEHIDG": true,
         "OGPODEBAOKA": true
     },
@@ -667,6 +669,7 @@
             10000005,
             10000007
         ],
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "正式"
     },
     {
@@ -699,6 +702,7 @@
             10000005,
             10000007
         ],
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "正式"
     },
     {
@@ -6500,7 +6504,7 @@
             10000005,
             10000007
         ],
-        "EntityAppearSorted": 1,
+        "MaxSpecifiedAvatarNum": 1,
         "Comment": "测试"
     }
 ]
